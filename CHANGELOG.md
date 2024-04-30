@@ -1,5 +1,12 @@
 # Changelog
 
+## 24.4.3
+
+### Various fixes & improvements
+
+- meta: Bump new development version (898fb041)
+- perf: change `ReplayPayload` structure (#5831) by @anonrig
+
 ## 24.4.2
 
 ### Various fixes & improvements
